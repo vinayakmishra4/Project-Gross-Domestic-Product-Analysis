@@ -76,17 +76,6 @@ It uncovers:
 - **Heatmaps** to visualize GDP across decades  
 - **Distribution plots** for understanding global economic spread  
 
-#### Sample Charts
-
-**GDP Trend of Top 5 Economies**  
-![Top 5 GDP Trend](images/top5_gdp_trend.png)
-
-**Global GDP Heatmap (1960–2020)**  
-![GDP Heatmap](images/gdp_heatmap.png)
-
-> *Tip: Place your images in an `images/` folder in your repo.*
-
----
 
 ## 📈 Key Insights
 
@@ -113,7 +102,7 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook GDP.ipynb
 ````
 
-**GitHub Repository:** [https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis](https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis)
+**GitHub Repository:** [Global GDP Analysis Project](https://github.com/vinayakmishra4/Project-Gross-Domestic-Product-Analysis)
 
 ---
 
